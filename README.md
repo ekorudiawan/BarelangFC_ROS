@@ -7,6 +7,7 @@
     cd ~
     git clone https://github.com/ekorudiawan/BarelangFC_ROS.git
     cd BarelangFC_ROS
+    rm -rf build
     catkin_make 
     source devel/setup.bash
     ```
