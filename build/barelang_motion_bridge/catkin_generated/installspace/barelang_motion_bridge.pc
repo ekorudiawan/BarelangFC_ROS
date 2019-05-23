@@ -1,0 +1,8 @@
+prefix=/home/barelangfc/BarelangFC_ROS/install
+
+Name: barelang_motion_bridge
+Description: Description of barelang_motion_bridge
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/barelangfc/BarelangFC_ROS/install/lib 
+Requires: 

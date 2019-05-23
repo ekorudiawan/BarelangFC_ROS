@@ -1,0 +1,8 @@
+prefix=/home/barelangfc/UPennalizers_ROS_ws/devel
+
+Name: marathon_marker_detector_with_color
+Description: Description of marathon_marker_detector_with_color
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/barelangfc/UPennalizers_ROS_ws/devel/lib 
+Requires: 

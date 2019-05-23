@@ -1,0 +1,8 @@
+prefix=/home/barelangfc/UPennalizers_ROS_ws/devel
+
+Name: sprint_qrcode_detector
+Description: Description of sprint_qrcode_detector
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/barelangfc/UPennalizers_ROS_ws/devel/lib 
+Requires: 

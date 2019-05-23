@@ -1,0 +1,8 @@
+prefix=/home/barelangfc/UPennalizers_ROS_ws/devel
+
+Name: image_streamer
+Description: Description of image_streamer
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/barelangfc/UPennalizers_ROS_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/barelangfc/UPennalizers_ROS_ws/devel
+
+Name: dynamic_params
+Description: Description of dynamic_params
+Version: 0.0.0
+Cflags: -I/home/barelangfc/UPennalizers_ROS_ws/devel/include
+Libs: -L/home/barelangfc/UPennalizers_ROS_ws/devel/lib 
+Requires: 

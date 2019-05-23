@@ -1,0 +1,2 @@
+barelang_motion_bridge
+-DCATKIN_DEVEL_PREFIX=/home/barelangfc/BarelangFC_ROS/devel -DCMAKE_INSTALL_PREFIX=/home/barelangfc/BarelangFC_ROS/install -G Unix Makefiles

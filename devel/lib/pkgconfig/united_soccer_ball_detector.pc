@@ -1,0 +1,8 @@
+prefix=/home/barelangfc/UPennalizers_ROS_ws/devel
+
+Name: united_soccer_ball_detector
+Description: Description of united_soccer_ball_detector
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/barelangfc/UPennalizers_ROS_ws/devel/lib 
+Requires: 

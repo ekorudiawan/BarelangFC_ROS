@@ -1,0 +1,3 @@
+<launch>
+    <node name="barelang_motion_bridge" pkg="barelang_motion_bridge" type="barelang_motion_bridge_node.py"/>
+</launch>
